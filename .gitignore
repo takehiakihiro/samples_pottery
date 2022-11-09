@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+tcp_napt_table
+tcp_napt_table_loop
